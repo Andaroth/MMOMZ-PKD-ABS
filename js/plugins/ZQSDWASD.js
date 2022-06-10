@@ -13,7 +13,7 @@
 (() => {
   Input.keyMapper = {
     9: 'tab',       // tab
-    // 13: 'ok',       // enter
+    13: 'ok',       // enter
     16: 'shift',    // shift
     17: 'control',  // control
     18: 'control',  // alt
