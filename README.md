@@ -20,7 +20,7 @@ An official RPG Maker MZ licence is also required.
 ## Installation
 1. Download `Alpha ABSZ` plugin from Phoenix Kage Desu's patreon and install it in your project
 
-2. In a terminal, in the `server` folder, run this command: `npm install mathjs`
+2. In a terminal, in your project's `server` folder, run this command: `npm install mathjs`
 
 3. Copy the files from our `MMOMZ-PKD-ABS/server/core` to your MMORPG Maker MZ project `server/core` folder, override the old ones
 
