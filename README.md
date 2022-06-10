@@ -3,6 +3,8 @@ Backend support for real-time Action Battle System (MMORPG Maker MZ)
 
 Please consider contributing to this project by submitting your pull requests. 
 
+**Join us on Discord : https://discord.gg/GVqyAwp**
+
 ## Important
 This code is currently in testing on [EtheRPG Online/Naire Online](https://naire.online/) and is still under development. 
 
@@ -41,3 +43,7 @@ WABS_Sockets.emitAction({ skillId, target: {} });
 
 ## Instructions
 *coming soon! Please read the comments in our code & the ABS documentation*
+
+---
+
+**Join us on Discord : https://discord.gg/GVqyAwp**
