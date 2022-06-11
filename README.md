@@ -35,7 +35,7 @@ An official RPG Maker MZ licence is also required.
 MMO_Core["gameworld"].initialize(() => MMO_Core["wabs"].initialize());
 ```
 
-6. Edit the `Alpha ABSZ` plugin file and add this code after the perform skill instruction at line `7900` approximately)
+6. Edit the `Alpha ABSZ` plugin file and add this code after the `//TODO: perform skill` comment: 
 ```js
 WABS_Sockets.emitAction({ skillId, target: {} });
 ```
