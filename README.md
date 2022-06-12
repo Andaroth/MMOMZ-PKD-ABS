@@ -6,7 +6,7 @@ Please consider contributing to this project by submitting your pull requests.
 **Join us on Discord : https://discord.gg/GVqyAwp**
 
 ## Important
-This code is currently in testing on [EtheRPG Online/Naire Online](https://naire.online/) and is still under development. 
+This code is currently in testing on [EtheRPG Online/Naire Online](https://etherpg.online/) and is still under development. 
 
 :warning: You Have to support PKD patreon (see below) in order to access to the RPG Maker `Alpha ABSZ` plugin. 
 
