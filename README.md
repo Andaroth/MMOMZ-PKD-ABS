@@ -53,7 +53,7 @@ WABS_Sockets.emitAction({ skillId, target: {} });
 1. A connected GAMEMAP must include `<Sync>` inside its note.
 2. To enable real-time fights in a GAMEMAP, you must add `<ABS>` in the map's note
 3. A connected NPC must include `<Sync>` in a comment in any page
-4. A fight NPC must includes `<ABS:ID>` (and `<isEnemy>`) in its note, where `ID` is the enemy ID from your gamedatas
+4. A fight NPC must includes `<ABS:ID>` in its note, where `ID` is the enemy ID from your gamedatas
 5. You can use `<cEonStart:ID>` and `<cEonDeath:ID>` in a fight NPC comment in any page, to trigger events on fights start/end
 
 <img src="https://i.ibb.co/zNDGWtg/Capture-d-e-cran-2022-06-12-a-13-07-45.png" width="50%" alt="How to create a fight NPV"/>
