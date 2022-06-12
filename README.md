@@ -10,10 +10,10 @@ This code is currently in testing on [EtheRPG Online/Naire Online](https://ether
 
 :warning: You Have to support PKD patreon (see below) in order to access to the RPG Maker `Alpha ABSZ` plugin 
 > I work with the v0.3 of the PKD plugin
->
-> Community members said that the `MZ core v1.2` is compatible but the *core v1.5 is not*. 
-
+ 
 An official RPG Maker MZ licence is also required. 
+
+> Community members said that the `MZ core v1.2` is compatible but the *core v1.5 is not*. 
 
 ## Requirements
 1. [MMORPG Maker MZ](https://github.com/Andaroth/MMORPGMaker-MZ) code from the `master` branch
