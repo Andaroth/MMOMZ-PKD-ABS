@@ -45,6 +45,9 @@ MMO_Core["gameworld"].initialize(() => MMO_Core["wabs"].initialize());
 WABS_Sockets.emitAction({ skillId, target: {} });
 ```
 
+<img src="https://i.ibb.co/fvHXtZQ/Capture-d-e-cran-2022-06-12-a-13-18-57.png" width="50%" alt="Update the PKD plugin"/>
+
+
 7. Copy the files from our `MMOMZ-PKD-ABS/js/plugins` to your project `js/plugins` folder (override existing ones) and activate them in the Plugins Manager
 
 8. You can now use MMORPG Maker to create worlds with real-time fights! 
