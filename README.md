@@ -8,7 +8,12 @@ Please consider contributing to this project by submitting your pull requests.
 ## Important
 This code is currently in testing on [EtheRPG Online/Naire Online](https://etherpg.online/) and is still under development. 
 
-:warning: You Have to support PKD patreon (see below) in order to access to the RPG Maker `Alpha ABSZ` plugin. 
+:warning: You Have to support PKD patreon (see below) in order to access to the RPG Maker `Alpha ABSZ` plugin 
+> I work with the v0.3 of the PKD plugin
+>
+> Community members said that the `PKD v1.2` is okay
+>
+> *PKD v1.5 is not stable*. 
 
 An official RPG Maker MZ licence is also required. 
 
