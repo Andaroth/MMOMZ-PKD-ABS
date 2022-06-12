@@ -50,7 +50,13 @@ WABS_Sockets.emitAction({ skillId, target: {} });
 8. You can now use MMORPG Maker to create worlds with real-time fights! 
 
 ## Instructions
-*coming soon! Please read the comments in our code & the ABS documentation*
+1. A connected GAMEMAP must include `<Sync>` inside its note.
+2. To enable real-time fights in a GAMEMAP, you must add `<ABS>` in the map's note
+3. A connected NPC must include `<Sync>` in a comment in any page
+4. An enemy NPC must includes `<ABS:ID>` in a comment in any page, where `ID` is the enemy ID from your gamedatas
+5. You can use `cEonStart` and `cEonDeath` to trigger events on fights start/end
+
+*More coming soon. Please read the comments in our code & the ABS documentation*
 
 ---
 
