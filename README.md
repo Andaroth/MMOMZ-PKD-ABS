@@ -17,7 +17,7 @@ An official RPG Maker MZ licence is also required.
 
 ## Requirements
 1. [MMORPG Maker MZ](https://github.com/Andaroth/MMORPGMaker-MZ) code from the `master` branch
-2. The whole ABSZ engine & requirements from [Phoenix Kage Desu's patreon](https://www.patreon.com/KageDesu)
+2. The whole ABSZ engine & requirements from [Phoenix Kage Desu's Boosty](https://boosty.to/kagedesu)
 3. The `mathjs` Node module
 
 ## Installation
